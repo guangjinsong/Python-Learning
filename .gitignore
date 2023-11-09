@@ -4,7 +4,7 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-../Python-Learning1/.idea/
+../Python-Learning/.idea/
 #.idea/modues.xml
 #.idea/jarRepositories.xml
 #.idea/compiler.xml
