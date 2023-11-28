@@ -1,4 +1,4 @@
-# 0 目录
+# 目录
 ![目录](https://cdn.nlark.com/yuque/0/2023/png/27258908/1699014783430-aef4d614-0a15-4c6f-83ad-d533d6734643.png#averageHue=%23fcfaf9&clientId=u12739c1b-a6e3-4&from=paste&height=202&id=ub23f21c9&originHeight=253&originWidth=470&originalType=binary&ratio=1.25&rotation=0&showTitle=true&size=26625&status=done&style=shadow&taskId=u3ac659fe-bacb-4de9-bafe-3d023de895f&title=%E7%9B%AE%E5%BD%95&width=376 "目录")
 # 布尔类型和比较运算符
 ## 布尔类型（bool）
